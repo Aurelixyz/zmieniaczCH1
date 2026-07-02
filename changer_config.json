@@ -1,0 +1,164 @@
+{
+    "is_running": false,
+    "state_monitor": {
+        "top": 169,
+        "left": 1817,
+        "width": 68,
+        "height": 14
+    },
+    "btn_monitor": {
+        "top": 77,
+        "left": 1769,
+        "width": 92,
+        "height": 91
+    },
+    "click_mode": "coords",
+    "change_delay": 0.0,
+    "ch_coords": {
+        "1": [
+            1787,
+            91
+        ],
+        "2": [
+            1789,
+            108
+        ],
+        "3": [
+            1795,
+            127
+        ],
+        "4": [
+            1811,
+            140
+        ],
+        "5": [
+            1827,
+            148
+        ],
+        "6": [
+            1845,
+            154
+        ]
+    },
+    "post_cape_delay_1": 0.5,
+    "smart_cape_mode": "mouse",
+    "auto_ch_enabled": true,
+    "auto_ch_mode": "next",
+    "auto_ch_interval": 5.0,
+    "allowed_channels": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+    ],
+    "alert_ignore_ch": {
+        "1": false,
+        "2": true,
+        "3": false
+    },
+    "alert_debounce": {
+        "1": false,
+        "2": true,
+        "3": false
+    },
+    "post_hold_space": true,
+    "post_press_enabled": false,
+    "post_press_delay": 3.0,
+    "post_press_count": 1,
+    "hold_key_enabled": true,
+    "post_cape_enabled": true,
+    "post_cape_delay_2": 2.0,
+    "smart_cape_coords": [
+        922,
+        1015
+    ],
+    "indep_action_enabled": false,
+    "indep_action_interval": 4.0,
+    "alert_1_monitor": {
+        "top": 251,
+        "left": 1804,
+        "width": 106,
+        "height": 180
+    },
+    "alert_2_monitor": {
+        "top": 25,
+        "left": 10,
+        "width": 315,
+        "height": 35
+    },
+    "alert_3_monitor": {
+        "top": 67,
+        "left": 45,
+        "width": 206,
+        "height": 81
+    },
+    "alerts_enabled": {
+        "1": true,
+        "2": true,
+        "3": true
+    },
+    "alert_conditions": {
+        "1": "appears",
+        "2": "disappears",
+        "3": "appears"
+    },
+    "alert_actions": {
+        "1": "Brak",
+        "2": "Auto Skille",
+        "3": "Brak"
+    },
+    "alert_sounds": {
+        "1": "W\u0142asny plik (.wav / .mp3)...",
+        "2": "W\u0142asny plik (.wav / .mp3)...",
+        "3": "W\u0142asny plik (.wav / .mp3)..."
+    },
+    "alert_custom_paths": {
+        "1": "C:/Users/Krystian/PycharmProjects/ZmieniaczCH/universfield-new-notification-08-352461.mp3",
+        "2": "C:/Users/Krystian/PycharmProjects/ZmieniaczCH/universfield-new-notification-08-352461.mp3",
+        "3": "C:/Users/Krystian/PycharmProjects/ZmieniaczCH/universfield-new-notification-08-352461.mp3"
+    },
+    "alert_intervals": {
+        "1": 7.0,
+        "2": 5.0,
+        "3": 5.0
+    },
+    "alert_volumes": {
+        "1": 100,
+        "2": 100,
+        "3": 100
+    },
+    "alert_loops": {
+        "1": true,
+        "2": false,
+        "3": true
+    },
+    "auto_booster_enabled": true,
+    "auto_booster_interval": 30.0,
+    "gui_rect": {
+        "x": 2761,
+        "y": 51,
+        "w": 650,
+        "h": 850
+    },
+    "hotkeys": {
+        "next_ch": 49,
+        "prev_ch": 6,
+        "ch1": 97,
+        "ch2": 98,
+        "ch3": 99,
+        "ch4": 100,
+        "ch5": 101,
+        "ch6": 102,
+        "capture": 118,
+        "auto_post_key": 52,
+        "auto_hold_key": 90,
+        "indep_action_key": 51,
+        "global_pause_key": 19,
+        "show_gui_key": 109,
+        "auto_booster_key": 116,
+        "macro_seq_key": 117,
+        "post_cape_key": 50
+    }
+}
